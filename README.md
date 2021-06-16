@@ -1,7 +1,8 @@
-#### Project
+<div dir="center">
+#Project
 
 <div dir="rtl">
-## گروه های درسی
+##پروژه فناوری اطلاعات 
 
 1. G-A01
      
