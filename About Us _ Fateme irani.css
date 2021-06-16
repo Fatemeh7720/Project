@@ -1,0 +1,151 @@
+* {
+    box-sizing: border-box;
+    direction: rtl;
+    margin: 2px;
+    text-decoration: none;
+}
+
+.header {
+    display: block;
+    background-color: #72C2A4;
+    border: 1px solid #707070;
+    border-radius: 10px;
+    padding: 20px;
+    margin: auto;
+    width: 100%;
+    height: 250px;
+    font-size: 6em;
+    text-align: right;
+    font-family: MV Boli;
+    color: #e67300;
+    text-shadow: 0 0 5px #000000;
+    text-indent: 50px;
+
+}
+
+.headerimage {
+    position: relative;
+    top: -160px;
+    left: 50px;
+    float: left;
+    width: 200px;
+    height: 200px border-radius: 100px;
+
+}
+
+
+
+#navbar li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 20px 10px 20px 10px;
+
+}
+
+#navbar a {
+    text-decoration: none;
+    color: black;
+}
+
+#navbar li a.active {
+
+    font-weight: bolder;
+
+}
+
+#navbar a:hover:not(.active) {
+    cursor: pointer;
+    color: maroon;
+    transition: 0.2s;
+    font-weight: bolder;
+}
+
+.firstimage {
+    float: left;
+    position: relative;
+    left: 30px;
+    top: -120px;
+    width: 50px;
+    border-radius: 100%;
+
+}
+
+.secondimage {
+    float: left;
+    position: relative;
+    left: 50px;
+    top: -120px;
+    width: 50px;
+    border-radius: 100%;
+}
+
+.show {
+    display: block;
+    padding: 50px;
+    display: block
+}
+
+.box {
+    display: inline-block;
+    float: right;
+    width: 50%;
+    font-family: B Nazanin;
+    font-size: 1.4em;
+    line-height: 50px;
+    text-align: justify;
+    color: gray;
+    font-weight: 500;
+
+}
+
+
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+
+.footer {
+    position: static;
+    bottom: 0;
+    left: 0;
+    border: 1px solid #707070;
+    border-radius: 10px;
+    width: 100%;
+    height: auto;
+    margin: auto;
+    font-family: IRDast Nevis;
+    font-size: 2em;
+    background-color: #4A7D74;
+    transition: all 0.5s;
+}
+
+.text1 {
+    text-align: right;
+    margin-right: 50px;
+}
+
+.icons {
+    float: left;
+    transition: all 0.5s;
+}
+
+a.emailicon:hover {
+    cursor: grab;
+    font-size: 30px;
+    transition: all 0.5s;
+}
+
+a.githubicon:hover {
+    cursor: grab;
+    font-size: 30px;
+    transition: all 0.5s;
+}
+
+a.phoneicon:hover {
+    cursor: grab;
+    font-size: 30px;
+    transition: all 0.5s;
+}
