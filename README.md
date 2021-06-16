@@ -1,4 +1,5 @@
-<div dir="rtl">
+
+
 1. پروژه فناوری اطلاعات
      
     1. [فاطمه ایرانی](https://github.com/Fatemeh7720/PNU_3991_AR.git)
