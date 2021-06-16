@@ -1,7 +1,7 @@
 <div dir="rtl">
 پروژه فناوری اطلاعات 
      
-    1. [فاطمه ایرانی _ صفحه درباره ما](https://github.com/Fatemeh7720/PNU_3991_AR.git)
+    1. [فاطمه ایرانی  صفحه درباره ما](https://github.com/Fatemeh7720/PNU_3991_AR.git)
 
     1. [لیلا علی پور](https://github.com/leilaalipour/PNU_3991_AR)
 
