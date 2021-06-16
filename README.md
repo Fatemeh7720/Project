@@ -1,4 +1,5 @@
-1. G-A01
+<div dir="rtl">
+1. پروژه فناوری اطلاعات
      
     1. [فاطمه ایرانی](https://github.com/Fatemeh7720/PNU_3991_AR.git)
     1. [لیلا علی پور](https://github.com/leilaalipour/PNU_3991_AR)
